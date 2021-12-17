@@ -1,4 +1,4 @@
-package com.example.process_mapping
+package br.com.schwade.process_mapping
 
 import io.flutter.embedding.android.FlutterActivity
 
